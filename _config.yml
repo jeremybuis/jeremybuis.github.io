@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Jeremy Buis's homepage
 description: Jeremy Buis's landing page
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
