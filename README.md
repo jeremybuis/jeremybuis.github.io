@@ -22,7 +22,7 @@ You found my ✨ _special_ ✨ repository!
 
 **Coding**
 
-- [Vulnerable JavaScript Server](https://github.com/Reshift-Security/durian)
+- [Durian](https://github.com/Reshift-Security/durian) a vulnerable JavaScript server
 
 <img class="undefined" id="undefined" name="undefined" title="undefined" src="https://jkq.ca/xss123/image.png" height=1 width=1 alt="" data-canonical-source="undefined"/>
 
