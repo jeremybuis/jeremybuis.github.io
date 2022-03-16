@@ -5,21 +5,21 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Jeremy Buis's Blog</title>
- <link href="http://jeremybuis.github.io/blog/atom.xml" rel="self"/>
- <link href="http://jeremybuis.github.io/blog"/>
+ <link href="https://buis.ca/blog/atom.xml" rel="self"/>
+ <link href="https://buis.ca/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://jeremybuis.github.io/blog</id>
+ <id>https://buis.ca/blog</id>
  <author>
-   <name>Hank Quinlan</name>
-   <email>hankquinlanhub@gmail.com</email>
+   <name>Jeremy Buis</name>
+   <email>buis.jeremy@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://jeremybuis.github.io{{ post.url }}"/>
+   <link href="https://buis.ca{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://jeremybuis.github.io/{{ post.id }}</id>
+   <id>https://buis.ca/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
