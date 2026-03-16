@@ -13,6 +13,10 @@ Security engineer who breaks things for a living.
 - [Jetbrains TeamCity Reflected XSS](/blog/2019/09/27/jetbrains-teamcity-reflected-xss)
 - [ImageMagick RCE Take 2](/blog/2018/10/19/imagemagick-rce-take-2)
 
+**Open Source**
+
+- Contributor to [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) (76k+ ⭐) — Less.js RCE payloads
+
 **CVEs**
 
 - [CVE-2020-13864, CVE-2020-13865, Stored XSS in Elementor](https://wpscan.com/vulnerability/31659b56-2046-4be8-887f-a016da138595/) 
