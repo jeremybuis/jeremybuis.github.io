@@ -22,8 +22,6 @@
 
 - [Durian](https://github.com/Reshift-Security/durian) a vulnerable JavaScript server
 
-<img class="undefined" id="undefined" name="undefined" title="undefined" src="https://jkq.ca/xss123/image.png" height=1 width=1 alt="✨" data-canonical-source="undefined"/>
-
 <!--
 **jeremybuis/jeremybuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
