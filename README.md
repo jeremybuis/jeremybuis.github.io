@@ -1,4 +1,6 @@
-### Hi there 👋
+## Jeremy Buis
+
+Security engineer who breaks things for a living.
 
 **Bug Bounty**
 
