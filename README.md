@@ -6,10 +6,10 @@
 
 **Writing**
 
-- [Exploiting Less.js to Achieve RCE](https://www.softwaresecured.com/exploiting-less-js-to-achieve-rce/)
-- [Elementor Page Builder 2.9.8 Stored XSS](https://www.softwaresecured.com/elementor-page-builder-stored-xss/)
-- [Jetbrains TeamCity Reflected XSS](https://www.softwaresecured.com/jetbrains-teamcity-reflected-xss/)
-- [ImageMagick RCE Take 2](https://www.softwaresecured.com/imagemagick-rce-take-2/)
+- [Exploiting Less.js to Achieve RCE](/blog/2021/07/07/exploiting-less-js-to-achieve-rce)
+- [Elementor Page Builder 2.9.8 Stored XSS](/blog/2020/06/05/elementor-page-builder-stored-xss)
+- [Jetbrains TeamCity Reflected XSS](/blog/2019/09/27/jetbrains-teamcity-reflected-xss)
+- [ImageMagick RCE Take 2](/blog/2018/10/19/imagemagick-rce-take-2)
 
 **CVEs**
 
